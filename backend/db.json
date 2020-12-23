@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "nike",
+      "price": 1000,
+      "date": "2020-12-19",
+      "descrpition": "sepatu"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "descrpition": "shisui",
+      "id": 10
+    },
+    {
+      "descrpition": "pedang oden",
+      "id": 11
+    },
+    {
+      "descrpition": "warna putih sepatu yg bisa jalan di atas langit",
+      "id": 12
+    },
+    {
+      "descrpition": "hahahahha baiklah",
+      "id": 13
+    },
+    {
+      "descrpition": "bakso satu bang",
+      "id": 14
+    },
+    {
+      "descrpition": "cuko pedas\n",
+      "id": 15
+    },
+    {
+      "name": "new balance",
+      "price": "999000",
+      "date": "2020-12-31",
+      "descrpition": "sepatu running",
+      "id": 16
+    },
+    {
+      "name": "Enma",
+      "price": "99999999",
+      "date": "2021-10-02",
+      "descrpition": "pedang oden",
+      "id": 17
+    },
+    {
+      "name": "Pedang Shisui",
+      "price": "9999999999999",
+      "descrpition": "pedang shisui legenda wano kuni",
+      "id": 18
+    }
+  ]
+}
